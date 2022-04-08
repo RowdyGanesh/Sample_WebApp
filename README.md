@@ -1,6 +1,6 @@
 New changes done by developer
 
-some more changes done
+some more changes done.
 
 
 
